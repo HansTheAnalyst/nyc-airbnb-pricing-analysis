@@ -52,7 +52,6 @@ Raw data was processed using a modular SQL approach in **SSMS (SQL Server Manage
 #### **Phase 2: Data Validation (Excel)**
 * Exported SQL views to `nyc_airbnb_final.xlsx`.
 * Performed pivot table spot-checks to verify SQL aggregation logic.
-* Validated outlier removal (listings > $1000/night excluded from final analysis to prevent skew).
 
 #### **Phase 3: Visualization (Tableau)**
 * **Design Logic:** Implemented a strict color system (**Blue** = Volume/Count, **Green** = Financials/Price) to reduce cognitive load.
@@ -70,3 +69,4 @@ Raw data was processed using a modular SQL approach in **SSMS (SQL Server Manage
 │   ├── 02_cleaning_staging.sql # Cleaning, Null handling, Feature Engineering
 │   └── 03_analytical_views.sql # View creation for dashboarding
 └── README.md
+
