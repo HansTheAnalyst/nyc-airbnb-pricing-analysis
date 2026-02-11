@@ -1,7 +1,7 @@
-# 🗽 NYC Airbnb Market Analysis (2019)
+#  NYC Airbnb Market Analysis (2019)
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-### 🚀 Executive Summary
+###  Executive Summary
 The New York City Airbnb market is a high-volume, competitive landscape with over **48,000 active listings**. This project analyzes the 2019 dataset to identify high-value investment opportunities and operational inefficiencies.
 
 **The Goal:** Provide data-driven recommendations for real estate investors looking to enter the NYC short-term rental market.
@@ -9,12 +9,12 @@ The New York City Airbnb market is a high-volume, competitive landscape with ove
 
 ---
 
-### 📊 Interactive Dashboard
-> **[👉 Click Here to View the Live Dashboard on Tableau Public](https://public.tableau.com/views/NYCAirbnbMarketAnalysisSupplyPricingTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+###  Interactive Dashboard
+> **[ Click Here to View the Live Dashboard on Tableau Public](https://public.tableau.com/views/NYCAirbnbMarketAnalysisSupplyPricingTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
-### 💡 Key Insights & Recommendations
+### Key Insights & Recommendations
 
 | Insight | Supporting Data | Recommendation |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ The New York City Airbnb market is a high-volume, competitive landscape with ove
 
 ---
 
-### 🛠️ Technical Workflow
+###  Technical Workflow
 This project followed a strict ETL (Extract, Transform, Load) and validation pipeline to ensure data integrity.
 
 #### **Phase 1: SQL ETL Pipeline**
@@ -59,7 +59,7 @@ Raw data was processed using a modular SQL approach in **SSMS (SQL Server Manage
 
 ---
 
-### 📂 Repository Structure
+### Repository Structure
 ```text
 ├── data/
 │   ├── raw/                   # Original 2019 Dataset (NYC_BNB_2019.csv)
@@ -69,4 +69,5 @@ Raw data was processed using a modular SQL approach in **SSMS (SQL Server Manage
 │   ├── 02_cleaning_staging.sql # Cleaning, Null handling, Feature Engineering
 │   └── 03_analytical_views.sql # View creation for dashboarding
 └── README.md
+
 
