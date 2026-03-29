@@ -18,10 +18,16 @@ The New York City Airbnb market is a high-volume, competitive landscape with ove
 ### Key Insights & Recommendations
 
 - **Authenticity Premium:** Single-listing hosts earn higher average prices than multi-listing hosts  
-- **Market Concentration:** Supply is concentrated in Manhattan and Brooklyn  
-- **Room Type Distribution:** Entire homes are the largest segment, followed closely by private rooms  
-- **Supply Clustering:** Low-price segments contain the highest number of listings  
+  → *Recommendation:* Position listings with a personalized, boutique experience to capture pricing premiums  
 
+- **Market Concentration:** Supply is concentrated in Manhattan and Brooklyn  
+  → *Recommendation:* Focus high-volume strategies in these boroughs; consider Queens for lower-cost entry  
+
+- **Room Type Distribution:** Entire homes are the largest segment, followed closely by private rooms  
+  → *Recommendation:* Prioritize full-unit rentals to align with dominant market demand  
+
+- **Supply Clustering:** Low-price segments contain the highest number of listings  
+  → *Recommendation:* Avoid competing in saturated budget segments; target mid-tier pricing for better margins  
 ---
 
 ###  Technical Workflow
