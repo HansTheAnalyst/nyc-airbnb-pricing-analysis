@@ -5,6 +5,7 @@
 The New York City Airbnb market is a high-volume, competitive landscape with over **48,000 active listings**. This project analyzes the 2019 dataset to identify high-value investment opportunities and operational inefficiencies.
 
 **The Goal:** Provide data-driven recommendations for real estate investors looking to enter the NYC short-term rental market.
+
 **The Result:** Identified four key market dynamics: an "Authenticity Premium" where single-listing hosts command higher prices, strong supply concentration in Manhattan and Brooklyn, dominance of entire-home listings, and high listing density in low-price segments—highlighting clear strategies for pricing, location, and investment focus.
 
 ---
