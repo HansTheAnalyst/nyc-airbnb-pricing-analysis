@@ -16,12 +16,10 @@ The New York City Airbnb market is a high-volume, competitive landscape with ove
 
 ### Key Insights & Recommendations
 
-| Insight | Supporting Data | Recommendation |
-| :--- | :--- | :--- |
-| **The "Authenticity" Premium** | Single-listing hosts earn **$158/night** avg vs. **$141/night** for multi-listing agencies. | **Strategy:** Even as you scale, maintain a "boutique" hosting persona. Guests pay a premium for a personalized experience. |
-| **Market Concentration** | **Manhattan & Brooklyn** account for **85%** of all active listings. | **Location:** Volume-based strategies must focus on these two boroughs. Queens offers lower entry costs but significantly lower demand volume. |
-| **Asset Class Dominance** | **Entire Homes/Apts** make up **52%** of supply and command the highest price points. | **Investment:** Prioritize acquiring full-unit rentals over shared spaces to align with the majority of traveler demand. |
-| **Saturation Warning** | The **"Low Price / Low Availability"** segment is the most crowded (14k+ listings). | **Pricing:** Position inventory in the "Medium" price tier to avoid the race-to-the-bottom competition in the budget sector. |
+- **Authenticity Premium:** Single-listing hosts earn higher average prices than multi-listing hosts  
+- **Market Concentration:** Supply is concentrated in Manhattan and Brooklyn  
+- **Room Type Distribution:** Entire homes are the largest segment, followed closely by private rooms  
+- **Supply Clustering:** Low-price segments contain the highest number of listings  
 
 ---
 
