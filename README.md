@@ -2,7 +2,7 @@
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ###  Executive Summary
-The New York City Airbnb market is a high-volume, competitive landscape with over **48,000 active listings**. This project analyzes the 2019 dataset to identify high-value investment opportunities and operational inefficiencies.
+The New York City Airbnb market is a high-volume, competitive landscape with over **48,000 active listings**. This project analyzes the 2019 dataset to identify pricing patterns, supply distribution, and market positioning opportunities.
 
 **The Goal:** Provide data-driven recommendations for real estate investors looking to enter the NYC short-term rental market.
 
@@ -27,7 +27,7 @@ The New York City Airbnb market is a high-volume, competitive landscape with ove
   → *Recommendation:* Prioritize full-unit rentals to align with dominant market demand  
 
 - **Supply Clustering:** Low-price segments contain the highest number of listings  
-  → *Recommendation:* Avoid competing in saturated budget segments; target mid-tier pricing for better margins  
+  → *Recommendation:* Low-price segments show high competition and lower differentiation. Investors should consider mid-tier pricing strategies to balance demand and profitability.
 ---
 
 ###  Technical Workflow
@@ -53,6 +53,7 @@ Raw data was processed using a modular SQL approach in **SSMS (SQL Server Manage
         * `vw_borough_stats`: Aggregated supply and pricing by neighborhood group.
         * `vw_room_type_stats`: Compared premiums for Entire Homes vs. Private Rooms.
         * `vw_host_stats`: Analyzed pricing behavior between Single vs. Multi-listing hosts.
+        * `vw_price_availability`: Analyzes the relationship between pricing tiers and listing availability to identify supply clustering patterns.
 
 #### **Phase 2: Data Validation (Excel)**
 * Exported SQL views to `nyc_airbnb_final.xlsx`.
